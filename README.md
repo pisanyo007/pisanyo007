@@ -3,6 +3,7 @@
 I'm 8 Years of working experience in various careers who was used to 📖 self-learning to find solutions and 🌞 keep learning every day. Believed that 🗣communication and 💼 teamwork would break through every problem. 🎓 Fresh certified Data Engineer. Looking for a new chapter in 🗃 Data industry with the motto “Data is the  new Oil.”
 
 ## Experiences
+🎅 It's coming to town..... 🎁
 
 ## Achievement
 ### Datacamp
@@ -69,6 +70,8 @@ I've taken all contents of this course and done the test to achieve the Certific
 <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://github.com/get-icon/geticon/raw/master/icons/cloudflare.svg" alt="Cloudflare" width="21px" height="21px"></a>
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a>
 
+## More me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisanyo007)
 
 <!--
 I'm willing to write this file with markdown only  (HTML when only needed)
