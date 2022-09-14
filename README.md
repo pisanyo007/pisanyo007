@@ -3,7 +3,21 @@
 I'm 8 Years of working experience in various careers who was used to 📖 self-learning to find solutions and 🌞 keep learning every day. Believed that 🗣communication and 💼 teamwork would break through every problem. 🎓 Fresh certified Data Engineer. Looking for a new chapter in 🗃 Data industry with the motto “Data is the  new Oil.”
 
 ## Experiences
-🎅 It's coming to town..... 🎁
+2012.  
+  - Graduated in Bachelor of Computer Science.
+  - Got first job as Web programmer (PHP).
+2014.  
+  - Moved to be an IT Support.
+2015.  
+  - New journey to a career outside IT field as a Content writer in international company.
+  - Got an attention from story telling behavier to be a Customer Care Trainer.
+2018.  
+  - Step out from comfort zone to get aboard experieces in 🦘 Australia 🇦🇺.
+2019  
+  - Back home with lots of good memories. Get back to IT career as a Systemm Engineer.
+2022.  
+  - Found a new interesting job after achieve a certificate from DataTH  on Road to Data Engineer course. 
+
 
 ## Achievement
 ### Datacamp
