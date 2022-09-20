@@ -50,6 +50,7 @@ I'm 8 Years of working experience in various careers who was used to 📖 self-l
 
 - Other
   - ![](https://img.shields.io/badge/4%20Hrs-complete-brightgreen?style=flat-square) [Introduction to Git ](https://www.datacamp.com/statement-of-accomplishment/course/c993190fe1404c79ac04d46ffc4bedbc47dc01cb)
+  - ![](https://img.shields.io/badge/2%20Hrs-complete-brightgreen?style=flat-square) [Understanding Cloud Computing](https://www.datacamp.com/statement-of-accomplishment/course/256000ca447eeb16dcc46b3c23806169cb43f358)
 
 ### Road to data
 Road to data engineering is conducted by DataTH. It's an online course with many workshops to prepare yourself to be a Data Engineer. The course is suitable for people who are interested in a data engineer career but new to data field because the contents in the course are designed from the beginning of programming with python and SQL until manage automation Data pipeline. 
@@ -57,7 +58,7 @@ Road to data engineering is conducted by DataTH. It's an online course with many
 The list of contents in this course are below. 
 
 0. Intro to Data Engineering 
-1. [Data collection with Python and Pandas](https://github.com/pisanyo007/DataManipulation/tree/main/DataCollection)
+1. Data collection with Python and Pandas
 2. Data cleancing with Apache Spark
 3. Cloud computing and Data lake management (Google storage)
 4. Data pipeline Orchestration with Automated Apache Airflow (Google Compute)
